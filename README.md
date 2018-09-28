@@ -1,2 +1,2 @@
 # Basic-Java-Functionality
-What I've learned while studying the 
+What I've learned while studying Head First Java Book
